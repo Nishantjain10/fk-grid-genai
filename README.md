@@ -1,6 +1,5 @@
-# E-commerce Shopping Website with FakeStore Api
-
-This is a fully responsive e-commerce shopping website project built using React and Tailwind CSS. The website utilizes the Fake Store API to fetch data and display products. The Context API is used to manage state throughout the application.
+# GenAI-fk-grid
+This is a fully responsive Flipkart based e-commerce shopping website project built using React and Tailwind CSS. The website utilizes the Fake Store API to fetch data and display products. The Context API is used to manage state throughout the application.
 
 ## Table of Contents
 
@@ -12,7 +11,7 @@ This is a fully responsive e-commerce shopping website project built using React
 
 ## Demo
 
-You can see a live demo of this project [here](https://ecommerce-shop-react-app.vercel.app/).
+You can see a live demo of this project [here](https://fk-grid-genai.vercel.app/).
 
 ## Features
 
@@ -32,9 +31,9 @@ You can see a live demo of this project [here](https://ecommerce-shop-react-app.
 
 Below are some screenshots of the website.
 
-![Home Page](/src/img/home-page.png)
+![Home Page](/src/img/flipkart-home1.png)
 
-![Cart/Sidebar](/src/img/cart.png)
+![Cart/Sidebar](/src/img/flipkart-home2.png)
 
 ## Installation and Setup
 
@@ -42,6 +41,3 @@ Below are some screenshots of the website.
 2. Navigate to the project directory and run `npm install` to install all dependencies.
 3. Run `npm start` to start the application.
 4. Open `http://localhost:3000` in your browser to view the website.
-
-Thank you! 🤍
-– Nigar Safarova
