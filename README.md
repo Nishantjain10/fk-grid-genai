@@ -26,6 +26,7 @@ You can see a live demo of this project [here](https://fk-grid-genai.vercel.app/
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 - **Fake Store API**: A free API for testing and prototyping e-commerce websites
 - **Context API**: A React API for managing global state in an application.
+- **Alan AI**: An all-in-one AI platform used for building next-gen AI assistant!
 
 ## Screenshots
 
